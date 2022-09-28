@@ -1,2 +1,2 @@
-# tasks
+# Tasks
 📝 The silly task manager
